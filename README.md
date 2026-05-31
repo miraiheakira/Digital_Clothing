@@ -1,2 +1,2 @@
-# Digital_Clothing
-数字服装软件
+#### 数字服装
+计划：API+语义分割+python
